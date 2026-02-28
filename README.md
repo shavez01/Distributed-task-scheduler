@@ -1,7 +1,7 @@
 ## 👨‍💻 Author
 
 **Shavez Mohammad**  
-Senior Backend Developer  
+Senior Technical Consultant  
 Java • Spring Boot • Distributed Systems  
 
 # 🚀 Distributed Task Scheduler
